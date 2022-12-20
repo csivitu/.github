@@ -10,9 +10,7 @@
 ### Glad to see you here! &nbsp;
 The Computer Society of India is the largest body of computer professionals in India. We are a group of skilled designers, developers and tech enthusiasts who engage in a lot of projects and hackathons. To help push technology forward, we organise a wide range of workshops, conferences, events and competitions both technical and non-technical.
 <div>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="408" height="318" /> 
 </br>
-
 
 ### Recent Events Organised By Us : &nbsp;
 -  <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; LaserTag
